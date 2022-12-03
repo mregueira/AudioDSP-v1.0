@@ -1,0 +1,11 @@
+AudioDSP-1.0/History
+AudioDSP-1.0/Project Logs for *
+AudioDSP-1.0/Project Outputs for *
+AudioDSP-1.0/__Previews
+AudioDSP-1.0/SCH/__Previews
+AudioDSP-1.0/PCB/*.html
+AudioDSP-1.0/PCB/*.txt
+
+Simulations/FiltroDAC/*.log
+Simulations/FiltroDAC/*.op.raw
+Simulations/FiltroDAC/*.raw
