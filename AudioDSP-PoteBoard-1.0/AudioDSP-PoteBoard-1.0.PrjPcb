@@ -105,8 +105,17 @@ UniqueID=0EEA582B-D940-43ED-A9AF-CB3B9596D5F0
 Description=For Assembly
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=5
+Variation1=Designator=J1|UniqueId=\XPEGERHJ|Kind=1|AlternatePart= 
+Variation2=Designator=P2|UniqueId=\OJQSEOJQ|Kind=1|AlternatePart= 
+Variation3=Designator=P3|UniqueId=\EFMHKCNU|Kind=1|AlternatePart= 
+Variation4=Designator=J2|UniqueId=\YZKUBWYE|Kind=1|AlternatePart= 
+Variation5=Designator=P1|UniqueId=\WQNTBRXK|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for AudioDSP-PoteBoard-1.0\Design Rule Check - AudioDSP-PoteBoard.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
