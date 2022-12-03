@@ -6,6 +6,14 @@ AudioDSP-1.0/SCH/__Previews
 AudioDSP-1.0/PCB/*.html
 AudioDSP-1.0/PCB/*.txt
 
+AudioDSP-PoteBoard-1.0/History
+AudioDSP-PoteBoard-1.0/Project Logs for *
+AudioDSP-PoteBoard-1.0/Project Outputs for *
+AudioDSP-PoteBoard-1.0/__Previews
+AudioDSP-PoteBoard-1.0/SCH/__Previews
+AudioDSP-PoteBoard-1.0/PCB/*.html
+AudioDSP-PoteBoard-1.0/PCB/*.txt
+
 Simulations/FiltroDAC/*.log
 Simulations/FiltroDAC/*.op.raw
 Simulations/FiltroDAC/*.raw
