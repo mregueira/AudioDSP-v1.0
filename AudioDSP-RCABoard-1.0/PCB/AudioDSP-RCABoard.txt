@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\Marcelo\Desktop\audioDSP\AudioDSP-v1.0\AudioDSP-RCABoard-1.0\PCB\AudioDSP-RCABoard.PcbDoc
+Date         : 5/12/2022
+Time         : 21:25:16
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 11
+    Connections routed, 11
+    Connections remaining, 0
+count : 4
