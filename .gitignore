@@ -22,6 +22,14 @@ AudioDSP-JackBoard-1.0/SCH/__Previews
 AudioDSP-JackBoard-1.0/PCB/*.html
 AudioDSP-JackBoard-1.0/PCB/*.txt
 
+AudioDSP-RCABoard-1.0/History
+AudioDSP-RCABoard-1.0/Project Logs for *
+AudioDSP-RCABoard-1.0/Project Outputs for *
+AudioDSP-RCABoard-1.0/__Previews
+AudioDSP-RCABoard-1.0/SCH/__Previews
+AudioDSP-RCABoard-1.0/PCB/*.html
+AudioDSP-RCABoard-1.0/PCB/*.txt
+
 Simulations/FiltroDAC/*.log
 Simulations/FiltroDAC/*.op.raw
 Simulations/FiltroDAC/*.raw
