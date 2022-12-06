@@ -105,7 +105,13 @@ UniqueID=272A99E6-888A-4780-B73C-4BA5FDCD0950
 Description=For Assembly
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=6
+Variation1=Designator=J4|UniqueId=\UTRESIEQ|Kind=1|AlternatePart= 
+Variation2=Designator=J1|UniqueId=\TGFFGJHH|Kind=1|AlternatePart= 
+Variation3=Designator=J5|UniqueId=\MRMSAWNO|Kind=1|AlternatePart= 
+Variation4=Designator=J2|UniqueId=\SCKZRYSV|Kind=1|AlternatePart= 
+Variation5=Designator=J6|UniqueId=\ITUSCHFG|Kind=1|AlternatePart= 
+Variation6=Designator=J3|UniqueId=\CPCRIUIL|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Configuration1]
@@ -456,6 +462,12 @@ OutputName8=Report Single Pin Nets
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
+OutputType9=Export Project History
+OutputName9=Export Project History
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
