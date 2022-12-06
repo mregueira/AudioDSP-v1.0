@@ -112,6 +112,10 @@ Variation3=Designator=J3|UniqueId=\FALRYSEA|Kind=1|AlternatePart=
 Variation4=Designator=J4|UniqueId=\JAJQITRY|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for AudioDSP-RCABoard-1.0\Design Rule Check - AudioDSP-RCABoard.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
