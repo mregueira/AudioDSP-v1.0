@@ -1,5 +1,8 @@
 Record=TopLevelDocument|FileName=AudioDSP-1.0_top.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=AudioDSP-1.0_top.SchDoc|FileName=Control_Connectors.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=AudioDSP-1.0_top.SchDoc|FileName=DAC_OutFilter.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=AudioDSP-1.0_top.SchDoc|FileName=DSP_Block.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=AudioDSP-1.0_top.SchDoc|FileName=Input_Connectors.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=AudioDSP-1.0_top.SchDoc|FileName=Output_Connectors.SchDoc|SheetNumber=8
 Record=NoMainPathDocument|SourceDocument=AudioDSP-1.0_top.SchDoc|FileName=Power_Block.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=AudioDSP-1.0_top.SchDoc|FileName=uC_Block.SchDoc|SheetNumber=3
