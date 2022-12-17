@@ -60,7 +60,7 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -105,13 +105,16 @@ UniqueID=272A99E6-888A-4780-B73C-4BA5FDCD0950
 Description=For Assembly
 AllowFabrication=0
 ParameterCount=0
-VariationCount=6
+VariationCount=9
 Variation1=Designator=J4|UniqueId=\UTRESIEQ|Kind=1|AlternatePart= 
 Variation2=Designator=J1|UniqueId=\TGFFGJHH|Kind=1|AlternatePart= 
 Variation3=Designator=J5|UniqueId=\MRMSAWNO|Kind=1|AlternatePart= 
 Variation4=Designator=J2|UniqueId=\SCKZRYSV|Kind=1|AlternatePart= 
 Variation5=Designator=J6|UniqueId=\ITUSCHFG|Kind=1|AlternatePart= 
 Variation6=Designator=J3|UniqueId=\CPCRIUIL|Kind=1|AlternatePart= 
+Variation7=Designator=TP3|UniqueId=\TUEMUTNM|Kind=1|AlternatePart= 
+Variation8=Designator=TP1|UniqueId=\NENTBUTF|Kind=1|AlternatePart= 
+Variation9=Designator=TP2|UniqueId=\QEMGDRHT|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Configuration1]
@@ -686,36 +689,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
