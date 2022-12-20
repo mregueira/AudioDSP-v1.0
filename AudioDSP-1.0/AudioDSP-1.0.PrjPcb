@@ -343,7 +343,20 @@ UniqueID=6C184A6D-B0C3-468D-92DC-CBA5DF15C41B
 Description=For Assembly
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=13
+Variation1=Designator=J1A_CTRL_CON|UniqueId=\SUHSEOSN\WLDFXAAU|Kind=1|AlternatePart= 
+Variation2=Designator=J2B_CTRL_CON|UniqueId=\SUHSEOSN\ZJQTAKHZ|Kind=1|AlternatePart= 
+Variation3=Designator=J2A_CTRL_CON|UniqueId=\SUHSEOSN\LZOFKUQR|Kind=1|AlternatePart= 
+Variation4=Designator=J1B_CTRL_CON|UniqueId=\SUHSEOSN\DIAZOIQF|Kind=1|AlternatePart= 
+Variation5=Designator=J4A_CTRL_CON|UniqueId=\SUHSEOSN\BSTQXBEA|Kind=1|AlternatePart= 
+Variation6=Designator=J5A_CTRL_CON|UniqueId=\SUHSEOSN\YNKYRZIC|Kind=1|AlternatePart= 
+Variation7=Designator=J5B_CTRL_CON|UniqueId=\SUHSEOSN\IBHGJRFR|Kind=1|AlternatePart= 
+Variation8=Designator=J4B_CTRL_CON|UniqueId=\SUHSEOSN\ESVFZFVV|Kind=1|AlternatePart= 
+Variation9=Designator=J3B_CTRL_CON|UniqueId=\SUHSEOSN\QOKARJPV|Kind=1|AlternatePart= 
+Variation10=Designator=J3A_CTRL_CON|UniqueId=\SUHSEOSN\CEIEQQZM|Kind=1|AlternatePart= 
+Variation11=Designator=J7A_CTRL_CON|UniqueId=\SUHSEOSN\JARHLHKP|Kind=1|AlternatePart= 
+Variation12=Designator=J7B_CTRL_CON|UniqueId=\SUHSEOSN\BQECUWRN|Kind=1|AlternatePart= 
+Variation13=Designator=J6_CTRL_CON|UniqueId=\SUHSEOSN\IQBOYAFY|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
