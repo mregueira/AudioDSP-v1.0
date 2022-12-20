@@ -343,7 +343,7 @@ UniqueID=6C184A6D-B0C3-468D-92DC-CBA5DF15C41B
 Description=For Assembly
 AllowFabrication=0
 ParameterCount=0
-VariationCount=13
+VariationCount=30
 Variation1=Designator=J1A_CTRL_CON|UniqueId=\SUHSEOSN\WLDFXAAU|Kind=1|AlternatePart= 
 Variation2=Designator=J2B_CTRL_CON|UniqueId=\SUHSEOSN\ZJQTAKHZ|Kind=1|AlternatePart= 
 Variation3=Designator=J2A_CTRL_CON|UniqueId=\SUHSEOSN\LZOFKUQR|Kind=1|AlternatePart= 
@@ -357,6 +357,23 @@ Variation10=Designator=J3A_CTRL_CON|UniqueId=\SUHSEOSN\CEIEQQZM|Kind=1|Alternate
 Variation11=Designator=J7A_CTRL_CON|UniqueId=\SUHSEOSN\JARHLHKP|Kind=1|AlternatePart= 
 Variation12=Designator=J7B_CTRL_CON|UniqueId=\SUHSEOSN\BQECUWRN|Kind=1|AlternatePart= 
 Variation13=Designator=J6_CTRL_CON|UniqueId=\SUHSEOSN\IQBOYAFY|Kind=1|AlternatePart= 
+Variation14=Designator=J1_IN_CON|UniqueId=\UJJKAEJF\KUVXXVLB|Kind=1|AlternatePart= 
+Variation15=Designator=J2_IN_CON|UniqueId=\UJJKAEJF\JHJSFMJS|Kind=1|AlternatePart= 
+Variation16=Designator=J3_IN_CON|UniqueId=\UJJKAEJF\QSLBZVNP|Kind=1|AlternatePart= 
+Variation17=Designator=J4_IN_CON|UniqueId=\UJJKAEJF\IKQWIWWW|Kind=1|AlternatePart= 
+Variation18=Designator=J4_OUT_CON|UniqueId=\LMQOTCJN\HNMQARVG|Kind=1|AlternatePart= 
+Variation19=Designator=J1_OUT_CON|UniqueId=\LMQOTCJN\IIAYAJAX|Kind=1|AlternatePart= 
+Variation20=Designator=J2_OUT_CON|UniqueId=\LMQOTCJN\UHCGPWMU|Kind=1|AlternatePart= 
+Variation21=Designator=J3_OUT_CON|UniqueId=\LMQOTCJN\IQGZKLGZ|Kind=1|AlternatePart= 
+Variation22=Designator=U1_POW|UniqueId=\TYUZDEWI\IETZERIH|Kind=1|AlternatePart= 
+Variation23=Designator=DL0_DSP1-CS|UniqueId=\NKLFMHPG\IZVFTZEI|Kind=1|AlternatePart= 
+Variation24=Designator=DL0_DSP1-F|UniqueId=\HMQZQREZ\IZVFTZEI|Kind=1|AlternatePart= 
+Variation25=Designator=DL0_DSP1-R|UniqueId=\ONOXEIMD\IZVFTZEI|Kind=1|AlternatePart= 
+Variation26=Designator=DL0_DSP2-CS|UniqueId=\EKSEBHVQ\IZVFTZEI|Kind=1|AlternatePart= 
+Variation27=Designator=DL0_DSP2-F|UniqueId=\DERQCKJA\IZVFTZEI|Kind=1|AlternatePart= 
+Variation28=Designator=DL0_DSP2-R|UniqueId=\DZOQUIYL\IZVFTZEI|Kind=1|AlternatePart= 
+Variation29=Designator=DP1_POW|UniqueId=\TYUZDEWI\NYNBQUYU|Kind=1|AlternatePart= 
+Variation30=Designator=S1_UC|UniqueId=\BHPUYZYS\VBURHKEB|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
