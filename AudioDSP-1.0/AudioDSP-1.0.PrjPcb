@@ -343,7 +343,7 @@ UniqueID=6C184A6D-B0C3-468D-92DC-CBA5DF15C41B
 Description=For Assembly
 AllowFabrication=0
 ParameterCount=0
-VariationCount=30
+VariationCount=33
 Variation1=Designator=J1A_CTRL_CON|UniqueId=\SUHSEOSN\WLDFXAAU|Kind=1|AlternatePart= 
 Variation2=Designator=J2B_CTRL_CON|UniqueId=\SUHSEOSN\ZJQTAKHZ|Kind=1|AlternatePart= 
 Variation3=Designator=J2A_CTRL_CON|UniqueId=\SUHSEOSN\LZOFKUQR|Kind=1|AlternatePart= 
@@ -374,6 +374,9 @@ Variation27=Designator=DL0_DSP2-F|UniqueId=\DERQCKJA\IZVFTZEI|Kind=1|AlternatePa
 Variation28=Designator=DL0_DSP2-R|UniqueId=\DZOQUIYL\IZVFTZEI|Kind=1|AlternatePart= 
 Variation29=Designator=DP1_POW|UniqueId=\TYUZDEWI\NYNBQUYU|Kind=1|AlternatePart= 
 Variation30=Designator=S1_UC|UniqueId=\BHPUYZYS\VBURHKEB|Kind=1|AlternatePart= 
+Variation31=Designator=U1_DAC-CS|UniqueId=\JPKEELHK\UADSYNIV|Kind=1|AlternatePart= 
+Variation32=Designator=U1_DAC-F|UniqueId=\IXULSNOD\UADSYNIV|Kind=1|AlternatePart= 
+Variation33=Designator=U1_DAC-R|UniqueId=\SZXDDCAC\UADSYNIV|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
