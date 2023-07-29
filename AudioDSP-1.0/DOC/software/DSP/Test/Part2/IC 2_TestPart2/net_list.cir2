@@ -1,0 +1,5 @@
+0 ICSigma100In1 O_C130_A0_P3_out Link1 O_C130_A0_P4_out Link2
+1 DCInpAlg1 O_C0_A0_P1_out Link0
+2 GPOAlg1 I_C4_A0_P1_in Link0
+3 ICSigma100Out1 I_C103_A0_P1_in Link1
+4 ICSigma100Out2 I_C110_A0_P1_in Link2
